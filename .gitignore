@@ -55,5 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
-/.ipynb_checkpoints/
-/sea_ice_example.png
+*/.ipynb_checkpoints/*
+/output/Sea_Ice_Statistics.xls
+/output/*.png
