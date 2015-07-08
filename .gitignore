@@ -58,3 +58,8 @@ target/
 */.ipynb_checkpoints/*
 /output/Sea_Ice_Statistics.xls
 /output/*.png
+/output/.DS_Store
+/output
+/data
+.ipynb_checkpoints/
+/.DS_Store
