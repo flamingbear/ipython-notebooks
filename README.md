@@ -1,6 +1,11 @@
 # A collection of iPython Notebooks.
 
-There are plenty of notebooks here that are just scratch-ish, things I did to illustrate concepts to others at my work, but there are also some that do intersting things.
+These will look funny on GitHub because in order to do a decent revision
+control on ipython notebooks you need to save them after clearing all data.
+I will add pointers to gists below for notebooks that I think are interesting
+enough to show the full output.  Most of these are just scratch notebooks
+I've created to describe something to other people or to learn how something works.
 
-- [Visualize regions of hand curated possible ice in the nsidc0622 dataset](http://nbviewer.ipython.org/github/flamingbear/ipython-notebooks/blob/master/notebooks/nsidc0622-valid-ice-polygon-extensions.ipynb)
-- [Use pandas to bend Sea Ice Extent into interesting statistics.](http://nbviewer.ipython.org/github/flamingbear/ipython-notebooks/blob/master/notebooks/Sea%20Ice%20Min%20Max%20Extents.ipynb)
+
+
+- [Visualize regions of hand curated possible ice in the nsidc0622 dataset](http://nbviewer.ipython.org/gist/flamingbear/349ad6ba05235ac5b70f)
